@@ -1,0 +1,18 @@
+{
+  "id": 1116,
+  "category": {
+    "id": 0,
+    "name": "dd_act"
+  },
+  "name": "logu",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "girl"
+    }
+  ],
+  "status": "sold"
+}

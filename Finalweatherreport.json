@@ -1,0 +1,24 @@
+{
+  "status" : "Success",
+  "data" : {
+    "city" : "New York",
+    "state" : "New York",
+    "country" : "USA",
+    "location" : {
+      "type" : "Krishnakumar",
+      "coordinates" : [ "-73.40", "34.23" ]
+    },
+    "current" : {
+      "weather" : {
+        "ts" : "3456-23-24435",
+        "ic" : "04n",
+        "hu" : 77
+      },
+      "population" : {
+        "ts" : "2024-05-26",
+        "aquis" : 30,
+        "mainus" : "p2"
+      }
+    }
+  }
+}
